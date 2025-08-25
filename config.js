@@ -2,7 +2,7 @@ exports.TOKEN = "BOT TOKEN HERE";
 
 exports.DBL_API_KEY = "NONE";
 
-exports.PREFIX = "&";
+exports.PREFIX = "+";
 
 exports.GOOGLE_API_KEY = "AIzaSyDzKnUyDiDaZru7_zbAkPbIdqhhnjLvd8U";
 
